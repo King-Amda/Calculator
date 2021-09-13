@@ -4,6 +4,6 @@
 Simple Calculator In Github Pages..
 
 # Credits 
-[Uvindu Bro](https://github.com/UvinduBro)
-[Damantha Jasinghe](https://github.com/Damantha126)
-[Isuru Udara](https://github.com/Sl-Isuwa)
+- [Uvindu Bro](https://github.com/UvinduBro)
+- [Damantha Jasinghe](https://github.com/Damantha126)
+- [Isuru Udara](https://github.com/Sl-Isuwa)
